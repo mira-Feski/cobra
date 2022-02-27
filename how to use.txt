@@ -1,0 +1,5 @@
+cobra is a ddos script the can take down some gov sites
+
+the creator is NOT responsible for what you do with this code
+
+coded by Feski
